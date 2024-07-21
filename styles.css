@@ -1,5 +1,10 @@
+:root {
+--main-brown: brown; 
+--main-black: black;    
+}
+
 body {
-  background-image: url(./cover.jpg);
+  background-image: url(./img/cover.jpg);
   background-size: cover;
   font-family: sans-serif;
   padding: 20px;
@@ -73,8 +78,8 @@ h2 {
 
 hr {
   height: 2px;
-  background-color: brown;
-  border-color: brown;
+  background-color: var(--main-brown);
+  border-color: var(--main-brown);
 }
 
 .bottom-line {
@@ -91,22 +96,10 @@ footer {
   margin-bottom: 5px;
 }
 
-a {
-  color: black;
+a, a:visited {
+  color: var(--main-black);
 }
 
-a:visited {
-  color: black;
-}
-
-a:hover {
-  color: brown;
-}
-
-a:active {
-  color: brown;
-}
-
-footer > p > i {
-  color: brown;
+a:hover, a:active, footer > p > i  {
+  color: var(--main-brown);
 }
