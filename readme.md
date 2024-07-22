@@ -70,10 +70,3 @@ Initially designed, written and tested with [FreeCodeCamp](https://www.freecodec
 3. Enhanced CSS efficiency for better performance and maintainability.
 
 These changes were made to both personalize the project and improve upon the initial design, ensuring a more polished and efficient final product.
-
-## Contact
-
-For any questions or suggestions, please reach out on: 
-
-- GitHub: [@oanapintoiu](https://github.com/oanapintoiu)
-- Linkedin: [@oanapintoiu](https://www.linkedin.com/in/oanapintoiu/)
