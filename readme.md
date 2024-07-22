@@ -4,14 +4,7 @@ This repository contains the HTML and CSS files for the BYTE & BREW Cafe Menu co
 
 ## Table of Contents
 
-- [Byte & Brew Cafe Menu Concept](#byte--brew-cafe-menu-concept)
-- [Result](#result)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [Contact](#contact)
+[Result](#result) | [Features](#features) | [Technologies Used](#technologies-used) | [Installation](#installation) | [Usage](#usage) | [Credits](#credits) 
 
 
 ## Result
@@ -77,10 +70,3 @@ Initially designed, written and tested with [FreeCodeCamp](https://www.freecodec
 3. Enhanced CSS efficiency for better performance and maintainability.
 
 These changes were made to both personalize the project and improve upon the initial design, ensuring a more polished and efficient final product.
-
-## Contact
-
-For any questions or suggestions, please reach out on: 
-
-- GitHub: [@oanapintoiu](https://github.com/oanapintoiu)
-- Linkedin: [@oanapintoiu](https://www.linkedin.com/in/oanapintoiu/)
