@@ -1,4 +1,4 @@
-# Byte & Brew Cafe Menu Concept [(Deployed)](oanapintoiu.github.io/cafe_menu/)
+# Byte & Brew Cafe Menu Concept (Deployed)
 
 This repository contains the HTML and CSS files for the BYTE & BREW Cafe Menu concept. The menu is designed to be a simple, elegant representation of a cafe's offerings. The design features a modern layout with icons and a background image to enhance the visual appeal.
 
